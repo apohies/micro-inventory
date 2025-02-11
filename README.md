@@ -1,4 +1,4 @@
-[prueba minas.postman_collection.json](https://github.com/user-attachments/files/18754268/prueba.minas.postman_collection.json)la prueba esta los 3 repositorios
+la prueba esta los 3 repositorios
 # video
 [video de youtube](https://www.youtube.com/watch?v=HmhTPLw7Pus)
 
