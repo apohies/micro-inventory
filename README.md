@@ -1,4 +1,6 @@
-la prueba esta los 3 repositorios
+[prueba minas.postman_collection.json](https://github.com/user-attachments/files/18754268/prueba.minas.postman_collection.json)la prueba esta los 3 repositorios
+# video
+[video de youtube](https://www.youtube.com/watch?v=HmhTPLw7Pus)
 
 # producto micro
 [producto](https://github.com/apohies/microproduct)
@@ -12,6 +14,7 @@ puerto 8080
 bajar dependencia npm .
 npm install
 - ng serve
+
 
 
 # docker bases de datos 
